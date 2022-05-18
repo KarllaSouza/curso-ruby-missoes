@@ -15,7 +15,7 @@ class Carro
     def find_km
         velocidade = /\d{1,}[a-z]{2,}\/[a-z]/.match(frase)
         puts velocidade
-    #    puts /\d{1,}[a-z]{2,}\/[a-z]/.match(frase)
+    #    puts /\d{1,}[a-z]{2,}\/[a-z]/.match(frase) # uma 2ª opção, mesma funcionalidade das duas linhas acima
     end
 end
 
