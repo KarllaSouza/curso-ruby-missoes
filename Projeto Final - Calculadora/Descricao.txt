@@ -1,0 +1,6 @@
+Projeto Final
+Crie um software que permita que o usuário entre com dois números, a operação matemática e receba como resposta na tela o resultado final.
+
+Critérios:
+•Você deve utilizar orientação a objetos no seu software
+•O resultado de cada operação (junto com aos dados) deve ser guardado em um arquivo que possua no nome a data e horário da operação (ex.: 10-10-18_10:30.txt)
